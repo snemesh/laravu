@@ -10,7 +10,7 @@ class PostController extends Controller
     private function index()
     {
 
-        
+        return false;
 
     }
 
